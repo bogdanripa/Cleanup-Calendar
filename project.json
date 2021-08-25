@@ -3,6 +3,7 @@
   "description": "Looks for events on your calendar in the next 4 weeks that can be safely deleted (ex: 1:1s where your colleague declined or cancelled events) and removes them",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Form.Activities": "[1.5.0]",
     "UiPath.MicrosoftOffice365.Activities": "[1.9.0]",
     "UiPath.System.Activities": "[21.4.1]"
   },
